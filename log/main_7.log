@@ -1,0 +1,1205 @@
+nohup: ignoring input
+checkpoint22.0
+contrast
+train0
+LabelSmoothingLoss
+smoothing:  0.05
+max_epoch:  200
+LossWeight:  tensor([0.4000, 1.0000, 0.4000, 0.3000, 0.3500, 0.3500, 0.5000],
+       device='cuda:0')
+lr:  0.01
+weight_decay:  0.0001
+epoch:  1
+lr: 0.01
+1
+[1,   200] loss: 1.852
+[1,   400] loss: 1.820
+Accuracy on train set: 25 %
+epoch:  2
+lr: 0.01
+2
+[2,   200] loss: 1.657
+[2,   400] loss: 1.508
+Accuracy on train set: 40 %
+epoch:  3
+lr: 0.01
+3
+[3,   200] loss: 1.395
+[3,   400] loss: 1.339
+Accuracy on train set: 51 %
+epoch:  4
+lr: 0.01
+4
+[4,   200] loss: 1.308
+[4,   400] loss: 1.252
+Accuracy on train set: 55 %
+epoch:  5
+lr: 0.01
+5
+[5,   200] loss: 1.236
+[5,   400] loss: 1.223
+Accuracy on train set: 58 %
+epoch:  6
+lr: 0.01
+6
+[6,   200] loss: 1.218
+[6,   400] loss: 1.189
+Accuracy on train set: 59 %
+epoch:  7
+lr: 0.01
+7
+[7,   200] loss: 1.164
+[7,   400] loss: 1.153
+Accuracy on train set: 61 %
+epoch:  8
+lr: 0.01
+8
+[8,   200] loss: 1.138
+[8,   400] loss: 1.126
+Accuracy on train set: 62 %
+epoch:  9
+lr: 0.01
+9
+[9,   200] loss: 1.113
+[9,   400] loss: 1.113
+Accuracy on train set: 63 %
+epoch:  10
+lr: 0.004
+10
+[10,   200] loss: 1.035
+[10,   400] loss: 1.039
+Accuracy on train set: 67 %
+epoch:  11
+lr: 0.004
+11
+[11,   200] loss: 1.017
+[11,   400] loss: 1.026
+Accuracy on train set: 67 %
+epoch:  12
+lr: 0.004
+12
+[12,   200] loss: 0.993
+[12,   400] loss: 1.004
+Accuracy on train set: 68 %
+epoch:  13
+lr: 0.004
+13
+[13,   200] loss: 0.982
+[13,   400] loss: 0.987
+Accuracy on train set: 69 %
+epoch:  14
+lr: 0.004
+14
+[14,   200] loss: 0.982
+[14,   400] loss: 0.971
+Accuracy on train set: 69 %
+epoch:  15
+lr: 0.004
+15
+[15,   200] loss: 0.959
+[15,   400] loss: 0.964
+Accuracy on train set: 70 %
+epoch:  16
+lr: 0.004
+16
+[16,   200] loss: 0.945
+[16,   400] loss: 0.955
+Accuracy on train set: 70 %
+epoch:  17
+lr: 0.004
+17
+[17,   200] loss: 0.927
+[17,   400] loss: 0.939
+Accuracy on train set: 71 %
+epoch:  18
+lr: 0.004
+18
+[18,   200] loss: 0.923
+[18,   400] loss: 0.924
+Accuracy on train set: 72 %
+epoch:  19
+lr: 0.0016
+19
+[19,   200] loss: 0.859
+[19,   400] loss: 0.854
+Accuracy on train set: 75 %
+epoch:  20
+lr: 0.0016
+20
+[20,   200] loss: 0.838
+[20,   400] loss: 0.839
+Accuracy on train set: 76 %
+epoch:  21
+lr: 0.0016
+21
+[21,   200] loss: 0.825
+[21,   400] loss: 0.825
+Accuracy on train set: 76 %
+epoch:  22
+lr: 0.0016
+22
+[22,   200] loss: 0.803
+[22,   400] loss: 0.824
+Accuracy on train set: 77 %
+epoch:  23
+lr: 0.0016
+23
+[23,   200] loss: 0.787
+[23,   400] loss: 0.796
+Accuracy on train set: 78 %
+epoch:  24
+lr: 0.0016
+24
+[24,   200] loss: 0.777
+[24,   400] loss: 0.799
+Accuracy on train set: 78 %
+epoch:  25
+lr: 0.0016
+25
+[25,   200] loss: 0.763
+[25,   400] loss: 0.776
+Accuracy on train set: 79 %
+epoch:  26
+lr: 0.0016
+26
+[26,   200] loss: 0.756
+[26,   400] loss: 0.773
+Accuracy on train set: 79 %
+epoch:  27
+lr: 0.0016
+27
+[27,   200] loss: 0.744
+[27,   400] loss: 0.753
+Accuracy on train set: 80 %
+epoch:  28
+lr: 0.00064
+28
+[28,   200] loss: 0.694
+[28,   400] loss: 0.669
+Accuracy on train set: 83 %
+epoch:  29
+lr: 0.00064
+29
+[29,   200] loss: 0.657
+[29,   400] loss: 0.662
+Accuracy on train set: 84 %
+epoch:  30
+lr: 0.00064
+30
+[30,   200] loss: 0.645
+[30,   400] loss: 0.653
+Accuracy on train set: 85 %
+epoch:  31
+lr: 0.00064
+31
+[31,   200] loss: 0.631
+[31,   400] loss: 0.647
+Accuracy on train set: 85 %
+epoch:  32
+lr: 0.00064
+32
+[32,   200] loss: 0.623
+[32,   400] loss: 0.626
+Accuracy on train set: 86 %
+epoch:  33
+lr: 0.00064
+33
+[33,   200] loss: 0.615
+[33,   400] loss: 0.628
+Accuracy on train set: 86 %
+epoch:  34
+lr: 0.00064
+34
+[34,   200] loss: 0.613
+[34,   400] loss: 0.612
+Accuracy on train set: 86 %
+epoch:  35
+lr: 0.00064
+35
+[35,   200] loss: 0.595
+[35,   400] loss: 0.605
+Accuracy on train set: 87 %
+epoch:  36
+lr: 0.00064
+36
+[36,   200] loss: 0.586
+[36,   400] loss: 0.591
+Accuracy on train set: 87 %
+epoch:  37
+lr: 0.00025600000000000004
+37
+[37,   200] loss: 0.556
+[37,   400] loss: 0.555
+Accuracy on train set: 89 %
+epoch:  38
+lr: 0.00025600000000000004
+38
+[38,   200] loss: 0.530
+[38,   400] loss: 0.538
+Accuracy on train set: 90 %
+epoch:  39
+lr: 0.00025600000000000004
+39
+[39,   200] loss: 0.532
+[39,   400] loss: 0.526
+Accuracy on train set: 90 %
+epoch:  40
+lr: 0.00025600000000000004
+40
+[40,   200] loss: 0.516
+[40,   400] loss: 0.516
+Accuracy on train set: 91 %
+epoch:  41
+lr: 0.00025600000000000004
+41
+[41,   200] loss: 0.504
+[41,   400] loss: 0.516
+Accuracy on train set: 91 %
+epoch:  42
+lr: 0.00025600000000000004
+42
+[42,   200] loss: 0.504
+[42,   400] loss: 0.507
+Accuracy on train set: 91 %
+epoch:  43
+lr: 0.00025600000000000004
+43
+[43,   200] loss: 0.501
+[43,   400] loss: 0.511
+Accuracy on train set: 91 %
+epoch:  44
+lr: 0.00025600000000000004
+44
+[44,   200] loss: 0.494
+[44,   400] loss: 0.496
+Accuracy on train set: 92 %
+epoch:  45
+lr: 0.00025600000000000004
+45
+[45,   200] loss: 0.490
+[45,   400] loss: 0.494
+Accuracy on train set: 92 %
+epoch:  46
+lr: 0.00010240000000000002
+46
+[46,   200] loss: 0.476
+[46,   400] loss: 0.472
+Accuracy on train set: 93 %
+epoch:  47
+lr: 0.00010240000000000002
+47
+[47,   200] loss: 0.465
+[47,   400] loss: 0.469
+Accuracy on train set: 93 %
+epoch:  48
+lr: 0.00010240000000000002
+48
+[48,   200] loss: 0.460
+[48,   400] loss: 0.467
+Accuracy on train set: 93 %
+epoch:  49
+lr: 0.00010240000000000002
+49
+[49,   200] loss: 0.457
+[49,   400] loss: 0.459
+Accuracy on train set: 94 %
+epoch:  50
+lr: 0.00010240000000000002
+50
+[50,   200] loss: 0.460
+[50,   400] loss: 0.455
+Accuracy on train set: 93 %
+epoch:  51
+lr: 0.00010240000000000002
+51
+[51,   200] loss: 0.450
+[51,   400] loss: 0.455
+Accuracy on train set: 94 %
+epoch:  52
+lr: 0.00010240000000000002
+52
+[52,   200] loss: 0.457
+[52,   400] loss: 0.452
+Accuracy on train set: 94 %
+epoch:  53
+lr: 0.00010240000000000002
+53
+[53,   200] loss: 0.449
+[53,   400] loss: 0.454
+Accuracy on train set: 94 %
+epoch:  54
+lr: 0.00010240000000000002
+54
+[54,   200] loss: 0.453
+[54,   400] loss: 0.450
+Accuracy on train set: 94 %
+epoch:  55
+lr: 4.0960000000000014e-05
+55
+[55,   200] loss: 0.440
+[55,   400] loss: 0.443
+Accuracy on train set: 94 %
+epoch:  56
+lr: 4.0960000000000014e-05
+56
+[56,   200] loss: 0.436
+[56,   400] loss: 0.442
+Accuracy on train set: 94 %
+epoch:  57
+lr: 4.0960000000000014e-05
+57
+[57,   200] loss: 0.441
+[57,   400] loss: 0.436
+Accuracy on train set: 94 %
+epoch:  58
+lr: 4.0960000000000014e-05
+58
+[58,   200] loss: 0.434
+[58,   400] loss: 0.436
+Accuracy on train set: 94 %
+epoch:  59
+lr: 4.0960000000000014e-05
+59
+[59,   200] loss: 0.434
+[59,   400] loss: 0.437
+Accuracy on train set: 95 %
+epoch:  60
+lr: 4.0960000000000014e-05
+60
+[60,   200] loss: 0.433
+[60,   400] loss: 0.431
+Accuracy on train set: 95 %
+epoch:  61
+lr: 4.0960000000000014e-05
+61
+[61,   200] loss: 0.433
+[61,   400] loss: 0.430
+Accuracy on train set: 95 %
+epoch:  62
+lr: 4.0960000000000014e-05
+62
+[62,   200] loss: 0.432
+[62,   400] loss: 0.429
+Accuracy on train set: 95 %
+epoch:  63
+lr: 4.0960000000000014e-05
+63
+[63,   200] loss: 0.427
+[63,   400] loss: 0.435
+Accuracy on train set: 95 %
+epoch:  64
+lr: 1.6384000000000008e-05
+64
+[64,   200] loss: 0.428
+[64,   400] loss: 0.426
+Accuracy on train set: 95 %
+epoch:  65
+lr: 1.6384000000000008e-05
+65
+[65,   200] loss: 0.429
+[65,   400] loss: 0.427
+Accuracy on train set: 95 %
+epoch:  66
+lr: 1.6384000000000008e-05
+66
+[66,   200] loss: 0.422
+[66,   400] loss: 0.431
+Accuracy on train set: 95 %
+epoch:  67
+lr: 1.6384000000000008e-05
+67
+[67,   200] loss: 0.426
+[67,   400] loss: 0.430
+Accuracy on train set: 95 %
+epoch:  68
+lr: 1.6384000000000008e-05
+68
+[68,   200] loss: 0.427
+[68,   400] loss: 0.423
+Accuracy on train set: 95 %
+epoch:  69
+lr: 1.6384000000000008e-05
+69
+[69,   200] loss: 0.427
+[69,   400] loss: 0.424
+Accuracy on train set: 95 %
+epoch:  70
+lr: 1.6384000000000008e-05
+70
+[70,   200] loss: 0.426
+[70,   400] loss: 0.424
+Accuracy on train set: 95 %
+epoch:  71
+lr: 1.6384000000000008e-05
+71
+[71,   200] loss: 0.419
+[71,   400] loss: 0.428
+Accuracy on train set: 95 %
+epoch:  72
+lr: 1.6384000000000008e-05
+72
+[72,   200] loss: 0.424
+[72,   400] loss: 0.428
+Accuracy on train set: 95 %
+epoch:  73
+lr: 6.553600000000004e-06
+73
+[73,   200] loss: 0.423
+[73,   400] loss: 0.428
+Accuracy on train set: 95 %
+epoch:  74
+lr: 6.553600000000004e-06
+74
+[74,   200] loss: 0.418
+[74,   400] loss: 0.423
+Accuracy on train set: 95 %
+epoch:  75
+lr: 6.553600000000004e-06
+75
+[75,   200] loss: 0.421
+[75,   400] loss: 0.424
+Accuracy on train set: 95 %
+epoch:  76
+lr: 6.553600000000004e-06
+76
+[76,   200] loss: 0.425
+[76,   400] loss: 0.422
+Accuracy on train set: 95 %
+epoch:  77
+lr: 6.553600000000004e-06
+77
+[77,   200] loss: 0.424
+[77,   400] loss: 0.422
+Accuracy on train set: 95 %
+epoch:  78
+lr: 6.553600000000004e-06
+78
+[78,   200] loss: 0.422
+[78,   400] loss: 0.420
+Accuracy on train set: 95 %
+epoch:  79
+lr: 6.553600000000004e-06
+79
+[79,   200] loss: 0.425
+[79,   400] loss: 0.421
+Accuracy on train set: 95 %
+epoch:  80
+lr: 6.553600000000004e-06
+80
+[80,   200] loss: 0.423
+[80,   400] loss: 0.425
+Accuracy on train set: 95 %
+epoch:  81
+lr: 6.553600000000004e-06
+81
+[81,   200] loss: 0.421
+[81,   400] loss: 0.427
+Accuracy on train set: 95 %
+epoch:  82
+lr: 2.6214400000000015e-06
+82
+[82,   200] loss: 0.422
+[82,   400] loss: 0.418
+Accuracy on train set: 95 %
+epoch:  83
+lr: 2.6214400000000015e-06
+83
+[83,   200] loss: 0.417
+[83,   400] loss: 0.421
+Accuracy on train set: 95 %
+epoch:  84
+lr: 2.6214400000000015e-06
+84
+[84,   200] loss: 0.423
+[84,   400] loss: 0.423
+Accuracy on train set: 95 %
+epoch:  85
+lr: 2.6214400000000015e-06
+85
+[85,   200] loss: 0.422
+[85,   400] loss: 0.425
+Accuracy on train set: 95 %
+epoch:  86
+lr: 2.6214400000000015e-06
+86
+[86,   200] loss: 0.422
+[86,   400] loss: 0.420
+Accuracy on train set: 95 %
+epoch:  87
+lr: 2.6214400000000015e-06
+87
+[87,   200] loss: 0.420
+[87,   400] loss: 0.421
+Accuracy on train set: 95 %
+epoch:  88
+lr: 2.6214400000000015e-06
+88
+[88,   200] loss: 0.423
+[88,   400] loss: 0.424
+Accuracy on train set: 95 %
+epoch:  89
+lr: 2.6214400000000015e-06
+89
+[89,   200] loss: 0.419
+[89,   400] loss: 0.420
+Accuracy on train set: 95 %
+epoch:  90
+lr: 2.6214400000000015e-06
+90
+[90,   200] loss: 0.419
+[90,   400] loss: 0.425
+Accuracy on train set: 95 %
+epoch:  91
+lr: 1.0485760000000006e-06
+91
+[91,   200] loss: 0.418
+[91,   400] loss: 0.419
+Accuracy on train set: 95 %
+epoch:  92
+lr: 1.0485760000000006e-06
+92
+[92,   200] loss: 0.418
+[92,   400] loss: 0.421
+Accuracy on train set: 95 %
+epoch:  93
+lr: 1.0485760000000006e-06
+93
+[93,   200] loss: 0.425
+[93,   400] loss: 0.423
+Accuracy on train set: 95 %
+epoch:  94
+lr: 1.0485760000000006e-06
+94
+[94,   200] loss: 0.417
+[94,   400] loss: 0.419
+Accuracy on train set: 95 %
+epoch:  95
+lr: 1.0485760000000006e-06
+95
+[95,   200] loss: 0.426
+[95,   400] loss: 0.417
+Accuracy on train set: 95 %
+epoch:  96
+lr: 1.0485760000000006e-06
+96
+[96,   200] loss: 0.422
+[96,   400] loss: 0.419
+Accuracy on train set: 95 %
+epoch:  97
+lr: 1.0485760000000006e-06
+97
+[97,   200] loss: 0.418
+[97,   400] loss: 0.422
+Accuracy on train set: 95 %
+epoch:  98
+lr: 1.0485760000000006e-06
+98
+[98,   200] loss: 0.419
+[98,   400] loss: 0.419
+Accuracy on train set: 95 %
+epoch:  99
+lr: 1.0485760000000006e-06
+99
+[99,   200] loss: 0.420
+[99,   400] loss: 0.422
+Accuracy on train set: 95 %
+epoch:  100
+lr: 4.194304000000003e-07
+100
+[100,   200] loss: 0.417
+[100,   400] loss: 0.420
+Accuracy on train set: 95 %
+epoch:  101
+lr: 4.194304000000003e-07
+101
+[101,   200] loss: 0.419
+[101,   400] loss: 0.420
+Accuracy on train set: 96 %
+epoch:  102
+lr: 4.194304000000003e-07
+102
+[102,   200] loss: 0.423
+[102,   400] loss: 0.417
+Accuracy on train set: 95 %
+epoch:  103
+lr: 4.194304000000003e-07
+103
+[103,   200] loss: 0.423
+[103,   400] loss: 0.415
+Accuracy on train set: 95 %
+epoch:  104
+lr: 4.194304000000003e-07
+104
+[104,   200] loss: 0.421
+[104,   400] loss: 0.418
+Accuracy on train set: 95 %
+epoch:  105
+lr: 4.194304000000003e-07
+105
+[105,   200] loss: 0.421
+[105,   400] loss: 0.418
+Accuracy on train set: 95 %
+epoch:  106
+lr: 4.194304000000003e-07
+106
+[106,   200] loss: 0.429
+[106,   400] loss: 0.421
+Accuracy on train set: 95 %
+epoch:  107
+lr: 4.194304000000003e-07
+107
+[107,   200] loss: 0.421
+[107,   400] loss: 0.420
+Accuracy on train set: 95 %
+epoch:  108
+lr: 4.194304000000003e-07
+108
+[108,   200] loss: 0.419
+[108,   400] loss: 0.420
+Accuracy on train set: 95 %
+epoch:  109
+lr: 1.6777216000000013e-07
+109
+[109,   200] loss: 0.421
+[109,   400] loss: 0.415
+Accuracy on train set: 95 %
+epoch:  110
+lr: 1.6777216000000013e-07
+110
+[110,   200] loss: 0.418
+[110,   400] loss: 0.416
+Accuracy on train set: 95 %
+epoch:  111
+lr: 1.6777216000000013e-07
+111
+[111,   200] loss: 0.418
+[111,   400] loss: 0.423
+Accuracy on train set: 95 %
+epoch:  112
+lr: 1.6777216000000013e-07
+112
+[112,   200] loss: 0.422
+[112,   400] loss: 0.417
+Accuracy on train set: 95 %
+epoch:  113
+lr: 1.6777216000000013e-07
+113
+[113,   200] loss: 0.422
+[113,   400] loss: 0.417
+Accuracy on train set: 95 %
+epoch:  114
+lr: 1.6777216000000013e-07
+114
+[114,   200] loss: 0.417
+[114,   400] loss: 0.418
+Accuracy on train set: 95 %
+epoch:  115
+lr: 1.6777216000000013e-07
+115
+[115,   200] loss: 0.422
+[115,   400] loss: 0.417
+Accuracy on train set: 95 %
+epoch:  116
+lr: 1.6777216000000013e-07
+116
+[116,   200] loss: 0.421
+[116,   400] loss: 0.418
+Accuracy on train set: 95 %
+epoch:  117
+lr: 1.6777216000000013e-07
+117
+[117,   200] loss: 0.417
+[117,   400] loss: 0.422
+Accuracy on train set: 95 %
+epoch:  118
+lr: 6.710886400000006e-08
+118
+[118,   200] loss: 0.418
+[118,   400] loss: 0.422
+Accuracy on train set: 95 %
+epoch:  119
+lr: 6.710886400000006e-08
+119
+[119,   200] loss: 0.420
+[119,   400] loss: 0.423
+Accuracy on train set: 95 %
+epoch:  120
+lr: 6.710886400000006e-08
+120
+[120,   200] loss: 0.418
+[120,   400] loss: 0.422
+Accuracy on train set: 95 %
+epoch:  121
+lr: 6.710886400000006e-08
+121
+[121,   200] loss: 0.422
+[121,   400] loss: 0.417
+Accuracy on train set: 95 %
+epoch:  122
+lr: 6.710886400000006e-08
+122
+[122,   200] loss: 0.424
+[122,   400] loss: 0.421
+Accuracy on train set: 95 %
+epoch:  123
+lr: 6.710886400000006e-08
+123
+[123,   200] loss: 0.418
+[123,   400] loss: 0.423
+Accuracy on train set: 95 %
+epoch:  124
+lr: 6.710886400000006e-08
+124
+[124,   200] loss: 0.418
+[124,   400] loss: 0.423
+Accuracy on train set: 95 %
+epoch:  125
+lr: 6.710886400000006e-08
+125
+[125,   200] loss: 0.419
+[125,   400] loss: 0.420
+Accuracy on train set: 95 %
+epoch:  126
+lr: 6.710886400000006e-08
+126
+[126,   200] loss: 0.420
+[126,   400] loss: 0.417
+Accuracy on train set: 95 %
+epoch:  127
+lr: 2.6843545600000026e-08
+127
+[127,   200] loss: 0.423
+[127,   400] loss: 0.417
+Accuracy on train set: 95 %
+epoch:  128
+lr: 2.6843545600000026e-08
+128
+[128,   200] loss: 0.418
+[128,   400] loss: 0.418
+Accuracy on train set: 95 %
+epoch:  129
+lr: 2.6843545600000026e-08
+129
+[129,   200] loss: 0.422
+[129,   400] loss: 0.418
+Accuracy on train set: 95 %
+epoch:  130
+lr: 2.6843545600000026e-08
+130
+[130,   200] loss: 0.419
+[130,   400] loss: 0.414
+Accuracy on train set: 95 %
+epoch:  131
+lr: 2.6843545600000026e-08
+131
+[131,   200] loss: 0.419
+[131,   400] loss: 0.421
+Accuracy on train set: 95 %
+epoch:  132
+lr: 2.6843545600000026e-08
+132
+[132,   200] loss: 0.418
+[132,   400] loss: 0.421
+Accuracy on train set: 95 %
+epoch:  133
+lr: 2.6843545600000026e-08
+133
+[133,   200] loss: 0.424
+[133,   400] loss: 0.423
+Accuracy on train set: 95 %
+epoch:  134
+lr: 2.6843545600000026e-08
+134
+[134,   200] loss: 0.420
+[134,   400] loss: 0.416
+Accuracy on train set: 95 %
+epoch:  135
+lr: 2.6843545600000026e-08
+135
+[135,   200] loss: 0.421
+[135,   400] loss: 0.422
+Accuracy on train set: 95 %
+epoch:  136
+lr: 1.073741824000001e-08
+136
+[136,   200] loss: 0.419
+[136,   400] loss: 0.424
+Accuracy on train set: 95 %
+epoch:  137
+lr: 1.073741824000001e-08
+137
+[137,   200] loss: 0.425
+[137,   400] loss: 0.417
+Accuracy on train set: 95 %
+epoch:  138
+lr: 1.073741824000001e-08
+138
+[138,   200] loss: 0.424
+[138,   400] loss: 0.418
+Accuracy on train set: 95 %
+epoch:  139
+lr: 1.073741824000001e-08
+139
+[139,   200] loss: 0.423
+[139,   400] loss: 0.421
+Accuracy on train set: 95 %
+epoch:  140
+lr: 1.073741824000001e-08
+140
+[140,   200] loss: 0.419
+[140,   400] loss: 0.417
+Accuracy on train set: 95 %
+epoch:  141
+lr: 1.073741824000001e-08
+141
+[141,   200] loss: 0.418
+[141,   400] loss: 0.415
+Accuracy on train set: 96 %
+epoch:  142
+lr: 1.073741824000001e-08
+142
+[142,   200] loss: 0.423
+[142,   400] loss: 0.425
+Accuracy on train set: 95 %
+epoch:  143
+lr: 1.073741824000001e-08
+143
+[143,   200] loss: 0.424
+[143,   400] loss: 0.422
+Accuracy on train set: 95 %
+epoch:  144
+lr: 1.073741824000001e-08
+144
+[144,   200] loss: 0.426
+[144,   400] loss: 0.419
+Accuracy on train set: 95 %
+epoch:  145
+lr: 4.2949672960000044e-09
+145
+[145,   200] loss: 0.420
+[145,   400] loss: 0.422
+Accuracy on train set: 95 %
+epoch:  146
+lr: 4.2949672960000044e-09
+146
+[146,   200] loss: 0.423
+[146,   400] loss: 0.420
+Accuracy on train set: 95 %
+epoch:  147
+lr: 4.2949672960000044e-09
+147
+[147,   200] loss: 0.418
+[147,   400] loss: 0.424
+Accuracy on train set: 95 %
+epoch:  148
+lr: 4.2949672960000044e-09
+148
+[148,   200] loss: 0.418
+[148,   400] loss: 0.421
+Accuracy on train set: 95 %
+epoch:  149
+lr: 4.2949672960000044e-09
+149
+[149,   200] loss: 0.417
+[149,   400] loss: 0.422
+Accuracy on train set: 95 %
+epoch:  150
+lr: 4.2949672960000044e-09
+150
+[150,   200] loss: 0.423
+[150,   400] loss: 0.419
+Accuracy on train set: 95 %
+epoch:  151
+lr: 4.2949672960000044e-09
+151
+[151,   200] loss: 0.421
+[151,   400] loss: 0.419
+Accuracy on train set: 95 %
+epoch:  152
+lr: 4.2949672960000044e-09
+152
+[152,   200] loss: 0.421
+[152,   400] loss: 0.424
+Accuracy on train set: 95 %
+epoch:  153
+lr: 4.2949672960000044e-09
+153
+[153,   200] loss: 0.417
+[153,   400] loss: 0.419
+Accuracy on train set: 95 %
+epoch:  154
+lr: 1.7179869184000018e-09
+154
+[154,   200] loss: 0.421
+[154,   400] loss: 0.422
+Accuracy on train set: 95 %
+epoch:  155
+lr: 1.7179869184000018e-09
+155
+[155,   200] loss: 0.415
+[155,   400] loss: 0.419
+Accuracy on train set: 95 %
+epoch:  156
+lr: 1.7179869184000018e-09
+156
+[156,   200] loss: 0.420
+[156,   400] loss: 0.418
+Accuracy on train set: 95 %
+epoch:  157
+lr: 1.7179869184000018e-09
+157
+[157,   200] loss: 0.421
+[157,   400] loss: 0.418
+Accuracy on train set: 95 %
+epoch:  158
+lr: 1.7179869184000018e-09
+158
+[158,   200] loss: 0.422
+[158,   400] loss: 0.423
+Accuracy on train set: 95 %
+epoch:  159
+lr: 1.7179869184000018e-09
+159
+[159,   200] loss: 0.423
+[159,   400] loss: 0.422
+Accuracy on train set: 95 %
+epoch:  160
+lr: 1.7179869184000018e-09
+160
+[160,   200] loss: 0.416
+[160,   400] loss: 0.421
+Accuracy on train set: 95 %
+epoch:  161
+lr: 1.7179869184000018e-09
+161
+[161,   200] loss: 0.417
+[161,   400] loss: 0.422
+Accuracy on train set: 95 %
+epoch:  162
+lr: 1.7179869184000018e-09
+162
+[162,   200] loss: 0.420
+[162,   400] loss: 0.418
+Accuracy on train set: 95 %
+epoch:  163
+lr: 6.871947673600008e-10
+163
+[163,   200] loss: 0.417
+[163,   400] loss: 0.421
+Accuracy on train set: 95 %
+epoch:  164
+lr: 6.871947673600008e-10
+164
+[164,   200] loss: 0.415
+[164,   400] loss: 0.426
+Accuracy on train set: 95 %
+epoch:  165
+lr: 6.871947673600008e-10
+165
+[165,   200] loss: 0.418
+[165,   400] loss: 0.421
+Accuracy on train set: 95 %
+epoch:  166
+lr: 6.871947673600008e-10
+166
+[166,   200] loss: 0.420
+[166,   400] loss: 0.423
+Accuracy on train set: 95 %
+epoch:  167
+lr: 6.871947673600008e-10
+167
+[167,   200] loss: 0.415
+[167,   400] loss: 0.421
+Accuracy on train set: 95 %
+epoch:  168
+lr: 6.871947673600008e-10
+168
+[168,   200] loss: 0.419
+[168,   400] loss: 0.418
+Accuracy on train set: 95 %
+epoch:  169
+lr: 6.871947673600008e-10
+169
+[169,   200] loss: 0.421
+[169,   400] loss: 0.422
+Accuracy on train set: 95 %
+epoch:  170
+lr: 6.871947673600008e-10
+170
+[170,   200] loss: 0.423
+[170,   400] loss: 0.421
+Accuracy on train set: 95 %
+epoch:  171
+lr: 6.871947673600008e-10
+171
+[171,   200] loss: 0.421
+[171,   400] loss: 0.422
+Accuracy on train set: 95 %
+epoch:  172
+lr: 2.7487790694400034e-10
+172
+[172,   200] loss: 0.425
+[172,   400] loss: 0.414
+Accuracy on train set: 95 %
+epoch:  173
+lr: 2.7487790694400034e-10
+173
+[173,   200] loss: 0.418
+[173,   400] loss: 0.419
+Accuracy on train set: 95 %
+epoch:  174
+lr: 2.7487790694400034e-10
+174
+[174,   200] loss: 0.427
+[174,   400] loss: 0.417
+Accuracy on train set: 95 %
+epoch:  175
+lr: 2.7487790694400034e-10
+175
+[175,   200] loss: 0.423
+[175,   400] loss: 0.414
+Accuracy on train set: 95 %
+epoch:  176
+lr: 2.7487790694400034e-10
+176
+[176,   200] loss: 0.420
+[176,   400] loss: 0.417
+Accuracy on train set: 95 %
+epoch:  177
+lr: 2.7487790694400034e-10
+177
+[177,   200] loss: 0.417
+[177,   400] loss: 0.423
+Accuracy on train set: 95 %
+epoch:  178
+lr: 2.7487790694400034e-10
+178
+[178,   200] loss: 0.421
+[178,   400] loss: 0.420
+Accuracy on train set: 95 %
+epoch:  179
+lr: 2.7487790694400034e-10
+179
+[179,   200] loss: 0.417
+[179,   400] loss: 0.417
+Accuracy on train set: 95 %
+epoch:  180
+lr: 2.7487790694400034e-10
+180
+[180,   200] loss: 0.419
+[180,   400] loss: 0.419
+Accuracy on train set: 95 %
+epoch:  181
+lr: 1.0995116277760013e-10
+181
+[181,   200] loss: 0.418
+[181,   400] loss: 0.421
+Accuracy on train set: 95 %
+epoch:  182
+lr: 1.0995116277760013e-10
+182
+[182,   200] loss: 0.416
+[182,   400] loss: 0.422
+Accuracy on train set: 95 %
+epoch:  183
+lr: 1.0995116277760013e-10
+183
+[183,   200] loss: 0.421
+[183,   400] loss: 0.421
+Accuracy on train set: 95 %
+epoch:  184
+lr: 1.0995116277760013e-10
+184
+[184,   200] loss: 0.417
+[184,   400] loss: 0.422
+Accuracy on train set: 95 %
+epoch:  185
+lr: 1.0995116277760013e-10
+185
+[185,   200] loss: 0.415
+[185,   400] loss: 0.423
+Accuracy on train set: 95 %
+epoch:  186
+lr: 1.0995116277760013e-10
+186
+[186,   200] loss: 0.424
+[186,   400] loss: 0.422
+Accuracy on train set: 95 %
+epoch:  187
+lr: 1.0995116277760013e-10
+187
+[187,   200] loss: 0.419
+[187,   400] loss: 0.419
+Accuracy on train set: 95 %
+epoch:  188
+lr: 1.0995116277760013e-10
+188
+[188,   200] loss: 0.421
+[188,   400] loss: 0.418
+Accuracy on train set: 95 %
+epoch:  189
+lr: 1.0995116277760013e-10
+189
+[189,   200] loss: 0.416
+[189,   400] loss: 0.417
+Accuracy on train set: 96 %
+epoch:  190
+lr: 4.3980465111040056e-11
+190
+[190,   200] loss: 0.417
+[190,   400] loss: 0.416
+Accuracy on train set: 95 %
+epoch:  191
+lr: 4.3980465111040056e-11
+191
+[191,   200] loss: 0.422
+[191,   400] loss: 0.424
+Accuracy on train set: 95 %
+epoch:  192
+lr: 4.3980465111040056e-11
+192
+[192,   200] loss: 0.421
+[192,   400] loss: 0.421
+Accuracy on train set: 95 %
+epoch:  193
+lr: 4.3980465111040056e-11
+193
+[193,   200] loss: 0.422
+[193,   400] loss: 0.417
+Accuracy on train set: 95 %
+epoch:  194
+lr: 4.3980465111040056e-11
+194
+[194,   200] loss: 0.427
+[194,   400] loss: 0.416
+Accuracy on train set: 95 %
+epoch:  195
+lr: 4.3980465111040056e-11
+195
+[195,   200] loss: 0.423
+[195,   400] loss: 0.418
+Accuracy on train set: 95 %
+epoch:  196
+lr: 4.3980465111040056e-11
+196
+[196,   200] loss: 0.424
+[196,   400] loss: 0.421
+Accuracy on train set: 95 %
+epoch:  197
+lr: 4.3980465111040056e-11
+197
+[197,   200] loss: 0.421
+[197,   400] loss: 0.418
+Accuracy on train set: 95 %
+epoch:  198
+lr: 4.3980465111040056e-11
+198
+[198,   200] loss: 0.420
+[198,   400] loss: 0.414
+Accuracy on train set: 95 %
+epoch:  199
+lr: 1.7592186044416025e-11
+199
+[199,   200] loss: 0.423
+[199,   400] loss: 0.419
+Accuracy on train set: 95 %

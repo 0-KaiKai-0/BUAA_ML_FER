@@ -1,0 +1,198 @@
+nohup: ignoring input
+28673
+contrast
+train0
+CrossEntropyLoss + LabelSmoothingLoss
+smoothing:  0.05
+max_epoch:  60
+LossWeight:  tensor([0.4000, 1.0000, 0.4000, 0.3000, 0.3500, 0.3500, 0.5000],
+       device='cuda:0')
+lr:  0.01
+weight_decay:  0.0001
+[1,   200] loss: 3.557
+Accuracy on train set: 24 %
+Accuracy on test set: 24 %
+[2,   200] loss: 3.412
+Accuracy on train set: 27 %
+Accuracy on test set: 35 %
+[3,   200] loss: 3.005
+Accuracy on train set: 39 %
+Accuracy on test set: 42 %
+[4,   200] loss: 2.677
+Accuracy on train set: 47 %
+Accuracy on test set: 51 %
+[5,   200] loss: 2.413
+Accuracy on train set: 52 %
+Accuracy on test set: 54 %
+[6,   200] loss: 2.215
+Accuracy on train set: 55 %
+Accuracy on test set: 54 %
+[7,   200] loss: 2.197
+Accuracy on train set: 57 %
+Accuracy on test set: 57 %
+[8,   200] loss: 2.119
+Accuracy on train set: 58 %
+Accuracy on test set: 58 %
+[9,   200] loss: 2.036
+Accuracy on train set: 60 %
+Accuracy on test set: 58 %
+[10,   200] loss: 1.984
+Accuracy on train set: 61 %
+epoch:  10
+lr: 0.004
+Accuracy on test set: 58 %
+[11,   200] loss: 1.850
+Accuracy on train set: 64 %
+Accuracy on test set: 62 %
+[12,   200] loss: 1.786
+Accuracy on train set: 65 %
+Accuracy on test set: 62 %
+[13,   200] loss: 1.734
+Accuracy on train set: 66 %
+Accuracy on test set: 62 %
+[14,   200] loss: 1.727
+Accuracy on train set: 66 %
+Accuracy on test set: 63 %
+[15,   200] loss: 1.713
+Accuracy on train set: 67 %
+Accuracy on test set: 63 %
+[16,   200] loss: 1.688
+Accuracy on train set: 68 %
+Accuracy on test set: 63 %
+[17,   200] loss: 1.639
+Accuracy on train set: 68 %
+Accuracy on test set: 64 %
+[18,   200] loss: 1.634
+Accuracy on train set: 69 %
+Accuracy on test set: 63 %
+[19,   200] loss: 1.602
+Accuracy on train set: 70 %
+Accuracy on test set: 63 %
+[20,   200] loss: 1.595
+Accuracy on train set: 70 %
+epoch:  20
+lr: 0.0016
+Accuracy on test set: 63 %
+[21,   200] loss: 1.483
+Accuracy on train set: 73 %
+Accuracy on test set: 65 %
+[22,   200] loss: 1.399
+Accuracy on train set: 74 %
+Accuracy on test set: 65 %
+[23,   200] loss: 1.360
+Accuracy on train set: 75 %
+Accuracy on test set: 64 %
+[24,   200] loss: 1.355
+Accuracy on train set: 75 %
+Accuracy on test set: 65 %
+[25,   200] loss: 1.314
+Accuracy on train set: 76 %
+Accuracy on test set: 65 %
+[26,   200] loss: 1.291
+Accuracy on train set: 77 %
+Accuracy on test set: 64 %
+[27,   200] loss: 1.281
+Accuracy on train set: 77 %
+Accuracy on test set: 65 %
+[28,   200] loss: 1.275
+Accuracy on train set: 77 %
+Accuracy on test set: 65 %
+[29,   200] loss: 1.232
+Accuracy on train set: 78 %
+Accuracy on test set: 64 %
+[30,   200] loss: 1.222
+Accuracy on train set: 79 %
+epoch:  30
+lr: 0.00064
+Accuracy on test set: 65 %
+[31,   200] loss: 1.107
+Accuracy on train set: 82 %
+Accuracy on test set: 66 %
+[32,   200] loss: 1.060
+Accuracy on train set: 83 %
+Accuracy on test set: 66 %
+[33,   200] loss: 1.029
+Accuracy on train set: 84 %
+Accuracy on test set: 66 %
+[34,   200] loss: 0.990
+Accuracy on train set: 84 %
+Accuracy on test set: 66 %
+[35,   200] loss: 0.972
+Accuracy on train set: 85 %
+Accuracy on test set: 65 %
+[36,   200] loss: 0.947
+Accuracy on train set: 85 %
+Accuracy on test set: 66 %
+[37,   200] loss: 0.935
+Accuracy on train set: 86 %
+Accuracy on test set: 65 %
+[38,   200] loss: 0.888
+Accuracy on train set: 86 %
+Accuracy on test set: 66 %
+[39,   200] loss: 0.917
+Accuracy on train set: 86 %
+Accuracy on test set: 65 %
+[40,   200] loss: 0.878
+Accuracy on train set: 87 %
+epoch:  40
+lr: 0.00025600000000000004
+Accuracy on test set: 65 %
+[41,   200] loss: 0.826
+Accuracy on train set: 89 %
+Accuracy on test set: 64 %
+[42,   200] loss: 0.773
+Accuracy on train set: 90 %
+Accuracy on test set: 65 %
+[43,   200] loss: 0.746
+Accuracy on train set: 90 %
+Accuracy on test set: 66 %
+[44,   200] loss: 0.736
+Accuracy on train set: 91 %
+Accuracy on test set: 65 %
+[45,   200] loss: 0.737
+Accuracy on train set: 91 %
+Accuracy on test set: 65 %
+[46,   200] loss: 0.735
+Accuracy on train set: 91 %
+Accuracy on test set: 65 %
+[47,   200] loss: 0.720
+Accuracy on train set: 91 %
+Accuracy on test set: 65 %
+[48,   200] loss: 0.687
+Accuracy on train set: 92 %
+Accuracy on test set: 66 %
+[49,   200] loss: 0.687
+Accuracy on train set: 92 %
+Accuracy on test set: 65 %
+[50,   200] loss: 0.675
+Accuracy on train set: 92 %
+epoch:  50
+lr: 0.00010240000000000002
+Accuracy on test set: 65 %
+[51,   200] loss: 0.655
+Accuracy on train set: 93 %
+Accuracy on test set: 66 %
+[52,   200] loss: 0.630
+Accuracy on train set: 94 %
+Accuracy on test set: 66 %
+[53,   200] loss: 0.633
+Accuracy on train set: 94 %
+Accuracy on test set: 65 %
+[54,   200] loss: 0.612
+Accuracy on train set: 94 %
+Accuracy on test set: 66 %
+[55,   200] loss: 0.615
+Accuracy on train set: 94 %
+Accuracy on test set: 66 %
+[56,   200] loss: 0.623
+Accuracy on train set: 94 %
+Accuracy on test set: 66 %
+[57,   200] loss: 0.599
+Accuracy on train set: 94 %
+Accuracy on test set: 65 %
+[58,   200] loss: 0.603
+Accuracy on train set: 94 %
+Accuracy on test set: 66 %
+[59,   200] loss: 0.592
+Accuracy on train set: 94 %
+Accuracy on test set: 65 %
